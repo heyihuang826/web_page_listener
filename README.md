@@ -15,4 +15,4 @@ If the script detect **web pages has chaged**, send the message to Line to **not
 - name is ```line_token1```, value is your line token.
 5. Run script:
 - Got to github action, choose ```Commit Files``` and click ```Run workflow``` run it.
-- It will run **2 times every day auto automatically** by remove the annotations for ```schedule``` in ```main.yaml```.
+- It will run **2 times every day auto automatically** by remove the annotations for ```schedule``` in ```main.yml```.
