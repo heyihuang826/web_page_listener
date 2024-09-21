@@ -1,6 +1,6 @@
 # Web Pages Conent Listener
-## Explain
-If the script detect **web pages has chaged**, send the message to Line to **notify you**.
+If the script detect web pages has chaged, send the message to Line to notify you.
+
 ## Usage
 1. Fork repo
 2. Set the ```main.py```:
